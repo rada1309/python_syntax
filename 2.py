@@ -80,5 +80,5 @@ res = 100 ** (1/2)
 import math
 
 res = math.sqrt(100)
-print(res)
+print(str_var)
 
